@@ -1,5 +1,5 @@
 title = "Moomal Qureshi"
-baseURL = "https://github.com/MoomalQ/blog.git"
+baseURL = "https://happy-elion-4a05d3.netlify.app/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 #themesDir = "../.."
